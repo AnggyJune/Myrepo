@@ -1,0 +1,12 @@
+{
+    "name": "june/mylib",
+    "description": "coba",
+    "type": "library",
+    "authors": [
+        {
+            "name": "AnggyJune",
+            "email": "verified.june@gmail.com"
+        }
+    ],
+    "require": {}
+}
