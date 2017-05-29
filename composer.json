@@ -1,7 +1,7 @@
 {
     "name": "june/mylib",
     "description": "coba",
-    "type": "library",
+    "type": "package",
     "authors": [
         {
             "name": "AnggyJune",
